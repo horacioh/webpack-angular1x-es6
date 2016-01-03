@@ -1,0 +1,8 @@
+html, body {
+  text-align: center;
+  background: #f3f3f3;
+}
+
+.current {
+  font-weight:bold;
+}
